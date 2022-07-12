@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Maximizing Your Leadership Potential",
+        "url": "https://shop.ccl.org/usa/leadership-programs/frontline-new-leaders/maximizing-your-leadership-potential?category_id=246&store_id=1",
+        "category": [
+            "New Manager Courses",
+            "Core Virtual Leadership Development Programs"
+        ],
+        "desc": "Maximizing Your Leadership Potential is a feedback-rich development experience designed to immerse participants in different roles and mindsets of managing people and projects: team player, coach, manager, and leader.",
+        "languages": "English",
+        "currency": "USD",
+        "tuition_number": "4400",
+        "location": [
+            "St. Petersburg, FL, United States"
+        ],
+        "active": true,
+        "effective_date_start": "2022-01-10",
+        "Repeatable": true,
+        "who_attend_desc": "Our programs are focused on providing tailored insights into your unique leadership style and abilities. As such, completing any assigned pre-program materials or assessments is critical and required for program enrollment. Specific pre-program assignments will be communicated to you prior to your attendance and with ample time for completion. To ensure that we provide you with the most accurate information, some pre-program materials may not be made available until approximately 8 weeks before the program. Pre-course assignments are a central part of the program experience, and their completion will directly impact your program experience and possibly your enrollment status.",
+        "testimonials": [],
+        "priority": 0,
+        "publish": 100,
+        "tuition_note": "",
+        "is_advanced_management_program": false,
+        "credential": "",
+        "course_faculties": [],
+        "course_takeaways": "",
+        "who_attend_params": {
+            "working experience": "",
+            "background knowledge": ""
+        },
+        "effective_date_end": "2022-01-12",
+        "overview": {
+            "desc": "Maximizing Your Leadership Potential is a feedback-rich development experience designed to immerse participants in different roles and mindsets of managing people and projects: team player, coach, manager, and leader.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "duration_days": 2,
+        "schedule": [
+            [
+                "2022-01-10",
+                "2022-01-12",
+                "2",
+                "formal"
+            ]
+        ],
+        "version": 1,
+        "type": "onsite"
+    }
+]

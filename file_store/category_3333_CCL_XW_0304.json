@@ -1,0 +1,27 @@
+[
+    {
+        "category": "Executive Leadership Programs",
+        "url": "https://www.ccl.org/leadership-challenges/executive-leadership-programs/",
+        "parent_url": "https://shop.ccl.org/"
+    },
+    {
+        "category": "Middle Manager Training",
+        "url": "https://www.ccl.org/leadership-challenges/middle-manager-training/",
+        "parent_url": "https://shop.ccl.org/"
+    },
+    {
+        "category": "New Manager Courses",
+        "url": "https://www.ccl.org/leadership-challenges/new-manager-courses/",
+        "parent_url": "https://shop.ccl.org/"
+    },
+    {
+        "category": "Core Virtual Leadership Development Programs",
+        "url": "https://www.ccl.org/leadership-programs/virtual-leadership-development-programs/",
+        "parent_url": "https://shop.ccl.org/"
+    },
+    {
+        "category": "Specialized Skill Development",
+        "url": "https://www.ccl.org/leadership-programs/",
+        "parent_url": "https://shop.ccl.org/"
+    }
+]
